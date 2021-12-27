@@ -1,4 +1,4 @@
---Edited by BeeswarmMVP sub to my yt
+--Edited by snowy sub to my yt
 for _,v in pairs(game.workspace.Collectibles:GetChildren()) do
 if string.find(v.Name,"") then
 v:Destroy()
@@ -221,18 +221,18 @@ JoinText.BackgroundTransparency = 1
 JoinText.Position = UDim2.new(0, 0, 0.453551859, 0)
 JoinText.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 JoinText.Font = Enum.Font.GothamBold
-JoinText.Text = "Join Discord for more Update"
+JoinText.Text = "snowy#3252"
 JoinText.TextColor3 = Color3.new(1, 1, 1)
 JoinText.TextSize = 17
  
-DiscordlinkTest.Name = "DiscordlinkTest"
+DiscordlinkTest.Name = "snowy#3252"
 DiscordlinkTest.Parent = HomePage
 DiscordlinkTest.BackgroundColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.BackgroundTransparency = 1
 DiscordlinkTest.Position = UDim2.new(0, 0, 0.601092875, 0)
 DiscordlinkTest.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 DiscordlinkTest.Font = Enum.Font.GothamBold
-DiscordlinkTest.Text = "Link: https://discord.gg/yXNjfMa"
+DiscordlinkTest.Text = "snowy#3252"
 DiscordlinkTest.TextColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.TextSize = 17
  
@@ -1384,11 +1384,11 @@ Close.Text = "-"
 Close.TextColor3 = Color3.new(1, 1, 1)
 Close.TextSize = 20
  
-DarkCyberLoadingGUI.Name = "[DarkCyber]LoadingGUI"
-DarkCyberLoadingGUI.Parent = game.CoreGui
+snowy#3252LoadingGUI.Name = "[snowy#3252]LoadingGUI"
+snowy#3252LoadingGUI.Parent = game.CoreGui
  
 LoadingFrame.Name = "Loading Frame"
-LoadingFrame.Parent = DarkCyberLoadingGUI
+LoadingFrame.Parent = snowy#3252LoadingGUI
 LoadingFrame.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
 LoadingFrame.BorderSizePixel = 0
 LoadingFrame.Position = UDim2.new(0.410933673, 0, 0.416230351, 0)
@@ -1400,7 +1400,7 @@ Createtitle.BackgroundColor3 = Color3.new(1, 1, 1)
 Createtitle.BackgroundTransparency = 1
 Createtitle.Size = UDim2.new(0, 108, 0, 25)
 Createtitle.Font = Enum.Font.GothamBlack
-Createtitle.Text = "Dark Cyber"
+Createtitle.Text = "snowy#3252"
 Createtitle.TextColor3 = Color3.new(1, 1, 1)
 Createtitle.TextSize = 14
  
@@ -1436,11 +1436,11 @@ Loadingtext.TextColor3 = Color3.new(0, 0, 0)
 Loadingtext.TextSize = 17
 Loadingtext.TextXAlignment = Enum.TextXAlignment.Left
  
-DarkCyberSynapshitGUI.Name = "[DarkCyber]SynapshitGUI"
-DarkCyberSynapshitGUI.Parent = game.CoreGui
+snowy#3252SynapshitGUI.Name = "[snowy#3252]SynapshitGUI"
+snowy#3252SynapshitGUI.Parent = game.CoreGui
  
-SynapShitPage.Name = "SynapShitPage"
-SynapShitPage.Parent = DarkCyberSynapshitGUI
+SynapShitPage.Name = "ily"
+SynapShitPage.Parent = snowy#3252SynapshitGUI
 SynapShitPage.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
 SynapShitPage.BorderSizePixel = 0
 SynapShitPage.Position = UDim2.new(0.416354954, 0, 0.417690426, 0)
@@ -1455,7 +1455,7 @@ Createtitle2.BackgroundColor3 = Color3.new(1, 1, 1)
 Createtitle2.BackgroundTransparency = 1
 Createtitle2.Size = UDim2.new(0, 108, 0, 25)
 Createtitle2.Font = Enum.Font.GothamBlack
-Createtitle2.Text = "Dark Cyber"
+Createtitle2.Text = "snowy#3252"
 Createtitle2.TextColor3 = Color3.new(1, 1, 1)
 Createtitle2.TextSize = 14
  
