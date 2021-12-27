@@ -136,7 +136,7 @@ local NameTitle = Instance.new("TextLabel")
 local Welcome = Instance.new("TextLabel")
  
 --Properties:
-DarkCyberMainGUI.Name = "[snowy#3252]MainGUI"
+DarkCyberMainGUI.Name = "[DarkCyber]MainGUI"
 DarkCyberMainGUI.Parent = game.CoreGui
  
 MiniPage.Name = "MiniPage"
@@ -201,7 +201,7 @@ ImageGang.Parent = HomePage
 ImageGang.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageGang.Position = UDim2.new(0.0295857992, 0, 0.0601093024, 0)
 ImageGang.Size = UDim2.new(0, 70, 0, 70)
-ImageGang.Image = "https://www.roblox.com/library/4484420617/so"
+ImageGang.Image = "http://www.roblox.com/asset/?id=3766691866"
  
 CreditText.Name = "CreditText"
 CreditText.Parent = HomePage
@@ -210,7 +210,7 @@ CreditText.BackgroundTransparency = 1
 CreditText.Position = UDim2.new(0.188195452, 0, 0.0601093657, 0)
 CreditText.Size = UDim2.new(0.809829473, 0, 0.382513672, 0)
 CreditText.Font = Enum.Font.GothamBold
-CreditText.Text = "snowy#3252"
+CreditText.Text = "Gui Create : DarkCyber"
 CreditText.TextColor3 = Color3.new(1, 1, 1)
 CreditText.TextSize = 20
  
@@ -243,7 +243,7 @@ Copylinkdiscord.BorderSizePixel = 0
 Copylinkdiscord.Position = UDim2.new(0.0295858085, 0, 0.79781419, 0)
 Copylinkdiscord.Size = UDim2.new(0.476331353, 0, 0.131147563, 0)
 Copylinkdiscord.Font = Enum.Font.GothamBold
-Copylinkdiscord.Text = "ew"
+Copylinkdiscord.Text = "COPY LINK DISCORD"
 Copylinkdiscord.TextColor3 = Color3.new(1, 1, 1)
 Copylinkdiscord.TextSize = 14
  
