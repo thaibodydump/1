@@ -1,4 +1,4 @@
---Edited by snowy sub to my yt
+--Edited by BeeswarmMVP sub to my yt
 for _,v in pairs(game.workspace.Collectibles:GetChildren()) do
 if string.find(v.Name,"") then
 v:Destroy()
@@ -136,7 +136,7 @@ local NameTitle = Instance.new("TextLabel")
 local Welcome = Instance.new("TextLabel")
  
 --Properties:
-DarkCyberMainGUI.Name = "[DarkCyber]MainGUI"
+DarkCyberMainGUI.Name = "[snowy#3252]MainGUI"
 DarkCyberMainGUI.Parent = game.CoreGui
  
 MiniPage.Name = "MiniPage"
@@ -201,7 +201,7 @@ ImageGang.Parent = HomePage
 ImageGang.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageGang.Position = UDim2.new(0.0295857992, 0, 0.0601093024, 0)
 ImageGang.Size = UDim2.new(0, 70, 0, 70)
-ImageGang.Image = "http://www.roblox.com/asset/?id=3766691866"
+ImageGang.Image = "https://www.roblox.com/library/4484420617/so"
  
 CreditText.Name = "CreditText"
 CreditText.Parent = HomePage
@@ -210,7 +210,7 @@ CreditText.BackgroundTransparency = 1
 CreditText.Position = UDim2.new(0.188195452, 0, 0.0601093657, 0)
 CreditText.Size = UDim2.new(0.809829473, 0, 0.382513672, 0)
 CreditText.Font = Enum.Font.GothamBold
-CreditText.Text = "Gui Create : DarkCyber"
+CreditText.Text = "snowy#3252"
 CreditText.TextColor3 = Color3.new(1, 1, 1)
 CreditText.TextSize = 20
  
@@ -221,18 +221,18 @@ JoinText.BackgroundTransparency = 1
 JoinText.Position = UDim2.new(0, 0, 0.453551859, 0)
 JoinText.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 JoinText.Font = Enum.Font.GothamBold
-JoinText.Text = "snowy#3252"
+JoinText.Text = "Join Discord for more Update"
 JoinText.TextColor3 = Color3.new(1, 1, 1)
 JoinText.TextSize = 17
  
-DiscordlinkTest.Name = "snowy#3252"
+DiscordlinkTest.Name = "DiscordlinkTest"
 DiscordlinkTest.Parent = HomePage
 DiscordlinkTest.BackgroundColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.BackgroundTransparency = 1
 DiscordlinkTest.Position = UDim2.new(0, 0, 0.601092875, 0)
 DiscordlinkTest.Size = UDim2.new(0.998024881, 0, 0.146612123, 0)
 DiscordlinkTest.Font = Enum.Font.GothamBold
-DiscordlinkTest.Text = "snowy#3252"
+DiscordlinkTest.Text = "Link: https://discord.gg/yXNjfMa"
 DiscordlinkTest.TextColor3 = Color3.new(1, 1, 1)
 DiscordlinkTest.TextSize = 17
  
@@ -243,7 +243,7 @@ Copylinkdiscord.BorderSizePixel = 0
 Copylinkdiscord.Position = UDim2.new(0.0295858085, 0, 0.79781419, 0)
 Copylinkdiscord.Size = UDim2.new(0.476331353, 0, 0.131147563, 0)
 Copylinkdiscord.Font = Enum.Font.GothamBold
-Copylinkdiscord.Text = "COPY LINK DISCORD"
+Copylinkdiscord.Text = "ew"
 Copylinkdiscord.TextColor3 = Color3.new(1, 1, 1)
 Copylinkdiscord.TextSize = 14
  
@@ -1384,11 +1384,11 @@ Close.Text = "-"
 Close.TextColor3 = Color3.new(1, 1, 1)
 Close.TextSize = 20
  
-snowy#3252LoadingGUI.Name = "[snowy#3252]LoadingGUI"
-snowy#3252LoadingGUI.Parent = game.CoreGui
+DarkCyberLoadingGUI.Name = "[DarkCyber]LoadingGUI"
+DarkCyberLoadingGUI.Parent = game.CoreGui
  
 LoadingFrame.Name = "Loading Frame"
-LoadingFrame.Parent = snowy#3252LoadingGUI
+LoadingFrame.Parent = DarkCyberLoadingGUI
 LoadingFrame.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
 LoadingFrame.BorderSizePixel = 0
 LoadingFrame.Position = UDim2.new(0.410933673, 0, 0.416230351, 0)
@@ -1400,7 +1400,7 @@ Createtitle.BackgroundColor3 = Color3.new(1, 1, 1)
 Createtitle.BackgroundTransparency = 1
 Createtitle.Size = UDim2.new(0, 108, 0, 25)
 Createtitle.Font = Enum.Font.GothamBlack
-Createtitle.Text = "snowy#3252"
+Createtitle.Text = "Dark Cyber"
 Createtitle.TextColor3 = Color3.new(1, 1, 1)
 Createtitle.TextSize = 14
  
@@ -1436,11 +1436,11 @@ Loadingtext.TextColor3 = Color3.new(0, 0, 0)
 Loadingtext.TextSize = 17
 Loadingtext.TextXAlignment = Enum.TextXAlignment.Left
  
-snowy#3252SynapshitGUI.Name = "[snowy#3252]SynapshitGUI"
-snowy#3252SynapshitGUI.Parent = game.CoreGui
+DarkCyberSynapshitGUI.Name = "[DarkCyber]SynapshitGUI"
+DarkCyberSynapshitGUI.Parent = game.CoreGui
  
-SynapShitPage.Name = "ily"
-SynapShitPage.Parent = snowy#3252SynapshitGUI
+SynapShitPage.Name = "SynapShitPage"
+SynapShitPage.Parent = DarkCyberSynapshitGUI
 SynapShitPage.BackgroundColor3 = Color3.new(0.321569, 0.462745, 1)
 SynapShitPage.BorderSizePixel = 0
 SynapShitPage.Position = UDim2.new(0.416354954, 0, 0.417690426, 0)
@@ -1455,7 +1455,7 @@ Createtitle2.BackgroundColor3 = Color3.new(1, 1, 1)
 Createtitle2.BackgroundTransparency = 1
 Createtitle2.Size = UDim2.new(0, 108, 0, 25)
 Createtitle2.Font = Enum.Font.GothamBlack
-Createtitle2.Text = "snowy#3252"
+Createtitle2.Text = "Dark Cyber"
 Createtitle2.TextColor3 = Color3.new(1, 1, 1)
 Createtitle2.TextSize = 14
  
